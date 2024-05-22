@@ -1,0 +1,40 @@
+#pogrubienie_koz {
+    font-size: 30px;
+    color: rgb(149, 73, 201);
+    font-weight: bold;
+}
+
+#pochylona_koz {
+    font-size: 35px;
+    color: rgb(249, 173, 101);
+    font-style: oblique;
+}
+
+#index_gorny_koz {
+    font-size: 1.5cm;
+    color: rgb(169, 141, 21);
+    text-transform: uppercase;
+}
+
+#index_dolny_koz {
+    font-size: 5.5cm;
+    color: rgb(69, 241, 221);
+    text-transform: lowercase;
+}
+
+#mono_koz {
+    font-size: 45px;
+    color: rgb(41, 221, 101);
+    font-family: monospace;
+}
+
+#powiekszenie_koz {
+    color: rgb(99, 61, 151);
+    transform: scale(1.25);
+    padding-left: 100px;
+}
+
+#pomniejszenie_koz {
+    color: rgb(199, 161, 51);
+    transform: scale(0.75);
+}
