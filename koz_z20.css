@@ -1,17 +1,19 @@
 .first{
-    background-color: #ec0000;
-    font-size: 19pt;
+    background-color: #FFFDCe;
+    font-size: 20pt;
+    font-family: Arial;
+    color: orange;
 }
 
 .second {
-    background-color: #3ab9e6;
-    color: #09772a;
-    font-size: 17pt;
+    background-color: magenta;
+    color: green;
+    font-size: 20pt;
     font-weight: bold;
 }
 
 .third {
-    background-color: coral;
+    background-color: #c0d727;
     color: yellow;
     font-size: 10pt;
     font-family: Arial;
